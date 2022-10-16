@@ -64,13 +64,9 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
-        </a>
-        .
+        I’m a front-end web Developer who focuses on the React.js framework, I have a passion for
+        Learning About new tech, To grow my skills I focus on building full projects with serverless
+        functions or Firebase Technology.
       </p>
     </>
   );
@@ -79,7 +75,8 @@ const Hero = () => {
       className="email-link"
       href="https://www.newline.co/courses/build-a-spotify-connected-app"
       target="_blank"
-      rel="noreferrer">
+      rel="noreferrer"
+    >
       Check out my course!
     </a>
   );

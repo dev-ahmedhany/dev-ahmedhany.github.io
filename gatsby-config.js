@@ -4,7 +4,7 @@ module.exports = {
   siteMetadata: {
     title: 'Ahmed Hany',
     description:
-      'Ahmed Hany is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences.',
+      'Ahmed Hany is a front-end web Developer who focuses on the React.js framework, I have a passion for Learning About new tech, To grow my skills I focus on building full projects with serverless functions or Firebase Technology.',
     siteUrl: 'https://dev-ahmedhany.github.io', // No trailing slash allowed!
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@dev_ahmedhany',

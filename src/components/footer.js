@@ -105,7 +105,9 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
-        <div>Ahmed Hany is a contributor to this project</div>
+        <a href="https://github.com/bchiang7/v4/pull/162">
+          Ahmed Hany is a contributor to this project
+        </a>
         <a href="https://github.com/bchiang7/v4">
           <div>Designed &amp; Built by Brittany Chiang</div>
 

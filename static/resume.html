@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ahmed Hany's Resume</title>
+    <style>
+        html {
+            height: 100%
+        }
+
+        body {
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body style="margin: 0px; padding: 0px;">
+    <!--https://www.adobe.io/apis/documentcloud/dcsdk/gettingstarted.html-->
+    <div id="adobe-dc-view"></div>
+    <script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+    <script type="text/javascript">
+        document.addEventListener("adobe_dc_view_sdk.ready", function () {
+            var adobeDCView = new AdobeDC.View({ clientId: "2192ea96e9214b25a58854a51470f570", divId: "adobe-dc-view" });
+            adobeDCView.previewFile({
+                content: { location: { url: "/resume.pdf" } },
+                metaData: { fileName: "resume.pdf" }
+            }, {
+                defaultViewMode: "FIT_WIDTH", showAnnotationTools: false, showLeftHandPanel: false,
+                dockPageControls: false, showDownloadPDF: false, showPrintPDF: false
+            });
+        });
+    </script>
+</body>

@@ -1,7 +1,7 @@
 ---
 date: '2022-12-01'
 title: 'Software Engineer'
-company: 'Modareseen.com LLC'
+company: 'Modareseen'
 location: 'Remotely, US'
 range: 'Dec 2022 - Feb 2023'
 url: 'https://modareseen.com/en'

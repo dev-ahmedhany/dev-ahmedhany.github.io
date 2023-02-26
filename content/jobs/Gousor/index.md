@@ -1,7 +1,7 @@
 ---
 date: '2022-11-01'
 title: 'Software Engineer'
-company: 'Gousor Group'
+company: 'Gousor'
 location: 'Remotely, KSA'
 range: 'Nov 2022 - jan 2023'
 url: 'https://gousor.com/'

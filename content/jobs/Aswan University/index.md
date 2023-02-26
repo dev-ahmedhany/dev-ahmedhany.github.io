@@ -1,7 +1,7 @@
 ---
 date: '2020-04-01'
 title: 'Software Engineer'
-company: 'Aswan University'
+company: 'Aswan Uni.'
 location: 'Aswan, EG'
 range: 'April 2020 - May 2021'
 url: 'https://aswu.edu.eg/'

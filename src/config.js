@@ -18,6 +18,10 @@ module.exports = {
       name: 'Leetcode',
       url: 'https://leetcode.com/dev-ahmedhany/',
     },
+    {
+      name: 'Upwork',
+      url: 'https://www.upwork.com/freelancers/~0146c25c811065ad0a',
+    },
   ],
 
   navLinks: [

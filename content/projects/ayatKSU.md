@@ -2,7 +2,7 @@
 date: '2020-01-27'
 title: 'Ayat KSU'
 github: ''
-external: 'https://ayat-ksu.ahmedhany.dev/3'
+external: 'https://ayat-ksu.ahmedhany.dev/'
 tech:
   - html
   - css

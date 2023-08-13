@@ -9,7 +9,7 @@ tech:
 ios: false
 android: false
 company: 'Ahmedhany.dev'
-showInProjects: true
+showInProjects: false
 ---
 
 A simple app that allows you to create a jitsi meet room at your custom domain.

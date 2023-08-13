@@ -10,7 +10,7 @@ tech:
 ios: false
 android: false
 company: 'Ahmedhany.dev'
-showInProjects: true
+showInProjects: false
 ---
 
 website show invitation card for my brother's engagement.

@@ -1,7 +1,7 @@
 ---
 date: '2022-04-01'
 title: 'egtrains'
-github: false
+github: ''
 external: 'https://egtrains.ahmedhany.dev/'
 tech:
   - React

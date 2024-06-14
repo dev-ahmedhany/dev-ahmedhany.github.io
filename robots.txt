@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://dev-ahmedhany.github.io/sitemap/sitemap-index.xml
+Host: https://dev-ahmedhany.github.io

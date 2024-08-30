@@ -64,9 +64,11 @@ const Hero = () => {
   const four = (
     <>
       <p>
-        I’m a front-end web Developer who focuses on the React.js framework, I have a passion for
-        Learning About new tech, To grow my skills I focus on building full projects with serverless
-        functions or Firebase Technology.
+        I am a Senior Software Engineer with a strong commitment to continuous learning,
+        exemplified by completing a 12-month Software Engineering program at ALX Africa.
+        I work using the latest technology to build and improve software solutions.
+        I use my deep knowledge and leadership skills to enhance our products and teach new engineers,
+        ensuring we always achieve excellence.
       </p>
     </>
   );

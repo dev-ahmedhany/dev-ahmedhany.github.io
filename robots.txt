@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://ahmedhany.dev/sitemap/sitemap-index.xml
+Host: https://ahmedhany.dev
